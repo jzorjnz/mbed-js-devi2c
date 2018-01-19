@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syed-zeeshan/mbed-js-devi2c.git"
+  },
   "keywords": [
     "mbed",
     "js",
@@ -14,5 +18,9 @@
     "mbed-os"
   ],
   "author": "ST",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syed-zeeshan/mbed-js-devi2c/issues"
+  },
+  "homepage": "https://github.com/syed-zeeshan/mbed-js-devi2c#readme"
 }
